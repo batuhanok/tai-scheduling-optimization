@@ -2,7 +2,7 @@
 
 Engineering project with Turkish Aerospace on scheduling a paint shop with a mixed integer optimization model.
 
-> This project was carried out with Turkish Aerospace. Its data and models are not shared publicly, so this repository only describes the work.
+> This project is covered by a non disclosure agreement (NDA) with Turkish Aerospace. The data, models and results are not shared, so this repository only describes the work.
 
 ## Overview
 
